@@ -12,20 +12,13 @@ The mission of the Tidy Advocacy Group (“HTACG”) is to continue the evolutio
 1. HTACG Organization
 ---------------------
 
-End date
- : none
- 
-Confidentiality
- : Proceedings and releases are public
- 
-Chair
- : vacant
-
-Team Contact
- : Jim Derry (no FTE)
- 
-Usual Meeting Schedule:
- : as needed.
+Item                   | Data
+-----------------------|----------------------------------------
+End date               | none
+Confidentiality        | Proceedings and releases are public
+Chair                  | Jim Derry (@balthisar)
+Team Contact           | Jim Derry (@balthisar) (no FTE)
+Usual Meeting Schedule | as needed.
 
 
 2. Scope
@@ -33,7 +26,7 @@ Usual Meeting Schedule:
 
 This Group will maintain and produce incremental versions of **HTML Tidy** that retain its capabilities for legacy (X)HTML while adding features and operability with current released- and mature-RFC versions of W3C (X)HTML and (X)HTML-related documents.
 
-Recognizing the influence of other W3C Community Groups and modern trends that have the potential to develop faster than released- and mature-RFC versions of documents, this  Group will monitor developments in the field for possible integration into **HTML Tidy**.
+Recognizing the influence of other W3C Community Groups and modern trends that have the potential to develop faster than released- and mature-RFC versions of documents, this Group will monitor developments in the field for possible integration into **HTML Tidy**.
 
 The Group may hold meetings and other events as required to fulfill its mission.
 
