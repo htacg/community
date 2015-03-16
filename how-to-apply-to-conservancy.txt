@@ -1,0 +1,360 @@
+######################################################################
+The Software Freedom Conservancy encourages your project to apply for
+Conservancy.  Please be advised that applying doesn't guarantee your
+project can join Conservancy; it's simply the first step in the process
+of joining Conservancy.
+
+Please note that Conservancy currently has a long queue for project
+applications, so we cannot assure you when you will receive a response to
+your application.  Feel free to ping Conservancy at any time to inquire
+about the status of your application.
+
+To apply to the Conservancy, please answer fully all the questions below,
+in a *single* text-only (i.e., not HTML) email to
+<apply@sfconservancy.org>.  Please try to be as concise as possible while
+making sure to answer the questions fully.
+
+If the relevant information is already gathered and publicly available,
+It's ok to include URLs as answers.  However, if a given URL has lots of
+information on it, please make sure that you direct us specifically to
+the portions of the web page loaded by the given URL that are relevant in
+answering the question.
+
+Conservancy Application Questions:
+
+*** Why does your project want to join Conservancy?  Specifically, what
+    benefits do you expect to take advantage of immediately and within a
+    few years?
+
+    Immediately: We would want to transfer ownership of assets (potentially
+    including source code) to the Conservancy. The benefit to Tidy/HTACG is to
+    safeguard them against control by a single individual (current me).
+
+    Longer term: The longer term benefit is to ensure that HTML Tidy is
+    continuously developed and deployed without regard to a single individual
+    or a small group taking actions, or perhaps more importantly, not taking
+    actions.
+
+*** Conservancy does encourage projects to apply to multiple non-profit
+    homes to find the best fit.  Does your project have an application
+    pending with any other non-profit homes?  What do you see as the pros
+    and cons of the various organizations you've applied to?
+
+    There are currently no other applications pending.
+
+*** Please give a detailed description of the project.
+
+    HTML Tidy is the C library (and command line utility) that
+    - parses HTML files
+    - corrects common mistakes
+    - diagnoses issues and makes reports
+    - "pretty prints" the corrected code
+    - performs accessibility assessments
+
+    HTML Tidy is ubiquitous. It is included by default in some operating
+    systems and has extensive support in languages such as PHP, PERL, Ruby;
+    and is available as a module in server systems such as mod-tidy.
+
+*** What FLOSS License(s) does your project use?  Please include the
+    primary license, and list other licenses for code that is included.
+    (e.g., "The project as a whole is GPLv3-or-later, but about a dozen
+    files in the directory src/external/ are under the Apache-2.0
+    license").  Please be sure to include information on documentation
+    licensing as well as software licensing.
+
+    The license  (https://github.com/htacg/tidy-html5/blob/master/LICENSE.txt)
+    is not identifiable as a verbatim copy of any particular FOSS license.
+    However it is very similar in concept to APACHE/MIT/etc. With the
+    cooperation of the current copyright holders we would be interested in
+    transitioning to a "standard" license.
+
+*** Please give us your roadmap and plans for future development of the
+    project, including both code and community plans.
+
+    - 30 days: release the heralded, new 5.0.0 version of HTML Tidy.
+    - 90 days: updates to all of the major Linux/Unix/MacOS software
+      repositories.
+    - long term: track developments of official HTML specifications as well as
+      begin consideration for recommendations and drafts in the current W3C
+      working groups and community groups (i.e., support for non-standard
+      standards).
+    - user community: with the prestige of a 5.0.0 new release imminent we hope
+      to prove to the user community that although Tidy was dormant, the project
+      has not died. Various package maintainers (e.g., BSD, HomeBrew) have
+      reached out to us with renewed interest. Introducing modern standards to
+      the venerable library is already generating much interest. Tidy's
+      ubiquity is fairly anonymous, however; its "user community" principally
+      consists of package maintainers and developers.
+    - developer community: the size of the developer community has waned in
+      recent years due to disinterest by the previous maintainers. Growing the
+      size of the developer community is perhaps our most important task in the
+      next year to 18 months.
+    - total community: the plan for growth for both of these communities is to
+      blanket the appropriate parts of the internet via social media upon the
+      release of the stable 5.0.0.
+
+*** Please give us the main link to the projects primary website.
+
+    http://www.html-tidy.org   - main project/product
+    http://www.htacg.org       - our maintainer organization
+
+*** Please give us a URL to a code repository we can clone and/or
+    checkout.
+
+    https://github.com/htacg/tidy-html5
+
+*** Have you ever had funds held by the project, or by any individual on
+    behalf of the project?  How and for what did you spend those funds?
+    Are there funds remaining?  If so, who is holding them now?
+
+    No funds have ever been held by the project, or any individual associated
+    with the project, to the best of my knowledge.
+
+*** Do you have any ongoing fundraising programs for your project?  How do
+    they operate, and how much funding is brought in through these mechanisms
+    currently?  Where do you expect most of your donor base to be
+    geographically?
+
+    No current fundraising is in progress.
+
+    Barring litigation we expect that our expenses shall be fairly low:
+    - Annual domain name registration
+    - Hosting, if we feel that our current solution is inadequate.
+
+    In general most of the costs of distribution are borne by 3d parties, e.g.,
+    FOSS repositories that package HTML Tidy.
+
+    We would expect most of the donor base to be from North America and Western
+    Europe.
+
+*** Going forward, once inside Conservancy, how do you expect to spend funds
+    that you raise?  What types of activity do you want to ask Conservancy to
+    take on your behalf?  Where geographically do you want those activities
+    to take place?
+
+    One prospect that excites us (should we raise funds) is internationalization
+    and localization. Current Tidy is English only, although it used on every
+    populated continent. Recall that Tidy isn't a simple "pretty printer"; it's
+    a serious diagnostic tool that generates detailed reports, and as such
+    professional-level translation is valuable to our users.
+
+*** Is your project able and willing to participate in fundraising
+    campaigns with Conservancy on an annual or perhaps more frequent
+    basis?
+
+    The project is willing to support fundraising, and will make strong efforts
+    to ensure that project members join in such efforts when available.
+
+*** Does your project owe funds to anyone?
+
+    No.
+
+*** Who currently holds your projects' trademarks, if any?  When was your
+    projects' name first used, and who used it?
+
+    No trademarks are currently registered with any government organization
+    to our knowledge. Insofar as a common law trademark, it probably still
+    "rightly" belongs to Dave Raggett. It was first used in 1998.
+
+*** Does you project have a logo?  If so, who drew it, when did they draw
+    it, where is it displayed and what is its license?
+
+    The project has several current logos in Illustration and SVG format:
+    https://github.com/htacg/community/tree/master/proposals_logos
+
+    These were drawn by Jim Derry (me) in 2015-January, and encompass artwork
+    by the W3C per the Creative Commons Attribution 3.0 license.
+
+    Currently displayed:
+    http://www.html-tidy.org
+    http://www.htacg.org
+
+    No license has been assigned. Elements that are not licensed from W3C
+    are copyright by Jim Derry. I am willing to assign this copyright to other
+    organizations and release it under any license or release it to the public
+    domain.
+
+
+*** Are you aware of anyone in your project, individual or company,
+    holding a patent in any jurisdiction that are in any way related to
+    your project?
+
+    No.
+
+*** Has your project ever had legal trouble, been involved in legal
+    proceedings or received a letter accusing your project of patent,
+    copyright, trademark or other types of infringement?
+
+    Not to my knowledge.
+
+*** Please give a brief history of the project, focusing on how the
+    community developed and the general health of the community.  Be sure
+    to include information on any forks or other disputes that have
+    occurred in the community.
+
+    http://www.html-tidy.org/#history
+    http://en.wikipedia.org/wiki/HTML_Tidy
+
+    In 2011 some of the maintainers of the SourceForge project took exception
+    with the W3C apparently attempting to wrest control over the project once
+    again: https://lists.w3.org/Archives/Public/html-tidy/2012JanMar/0019.html
+
+    HTACG has since taken over the W3C effort, and we have reached out to
+    the previous maintainers in an effort to assuage them.
+
+*** Please explain how your project is governed.  Who makes the decisions
+    in the project?  How do you resolve disputes, particularly about
+    non-code issues?
+
+    HTACG's governance is new since 2015-January, and as such we're still
+    learning how to govern properly. There are several types of decisions that
+    are made and the decision process is unique to each of them.
+
+    - Features and specification decisions are made per discussion on the
+      mailing lists and bug tracker, with much weight given to the official
+      HTML specifications and the behavior of the W3C validator. The lead
+      developer makes a feasibility assessment, and with feedback from the
+      current HTACG chairman a decision is made to either implement the
+      behavior immediately, defer it to a later version, or reject is as not
+      part of the project's goals.
+
+    - Governance decisions are currently made exclusively by the current
+      Chair. To date there have been no issues for debate, although the
+      potential for such is the main reason that we are reaching out to the
+      Conservancy for membership. The current Chair recognizes that governance
+      originating from a small, concentrated group (or even a single, well-
+      meaning individual) is dangerous to the long term health and survival of
+      such an important project.
+
+*** Does your project currently offer, or wish to offer any consulting or
+    training services (such as deployment, administration or other such
+    services of the software for users) to your user base?  If so, how do
+    you structure (or seek to structure) this work?
+
+    The project does not current offer any services. Providing such services
+    is not _currently_ on our radar, as our number one priority is growth.
+    Given the nature of the project and its integration into other systems this
+    is not an impossible future state.
+
+*** Is anyone in the project currently offering a Software as a Service
+    system based on project?  If so, how is that offering governed,
+    coordinated and is the software that runs the service made fully
+    available to your users?
+
+    Not to my knowledge.
+
+*** If your project runs on Linux-based systems, please list all the
+    distributions that include your project, and what "repository area"
+    the package appears in.  If you aren't packaged for any major
+    distributions, please tell us why you believe your project hasn't been
+    packaged yet.
+
+    RPM: http://rpmfind.net/linux/rpm2html/search.php?query=tidy
+    Ubuntu: http://packages.ubuntu.com/search?keywords=tidy
+    Debian: https://packages.debian.org/search?keywords=tidy
+    FreeBSD (Unix): https://svnweb.freebsd.org/ports/head/www/tidy-lib/
+    Mac OS X (Unix): 
+    https://developer.apple.com/library/mac/documentation/Darwin/Reference/ManPages/man1/tidy.1.html
+
+*** Does your project have any existing for-profit or non-profit
+    affiliations, funding relationships, or other agreements between the
+    project and/or key leaders of your project and other organizations?
+    Has the project had such affiliations in the past?  Please list of all
+    of them in detail and explain their nature. Even tangential
+    affiliations and relationships, or potential affiliations that you
+    plan to create should be included.
+
+    No.
+
+*** Approximately how many users does your project have, and what items
+    lead you to believe your userbase is of a particular size (e.g., post
+    counts to your user mailing list)?
+
+    This is a _very_ difficult question to answer! Tidy is *ubiquitous* and
+    is used as part of other systems every day. As above it's available in
+    most major Linux and Unix repositories, comes pre-installed on all Mac OS X
+    systems, and is used as a C library in countless server applications
+    (mod-tidy), text editors and IDEs on multiple platforms.
+
+    As of 2014 HTML Tidy is deployed to 80 million Mac OS X systems alone.
+
+    Due to the nature of using Tidy as a library, there's definitely a
+    separation between the end-user-base and the developer- or integrator-user-
+    base.
+
+    The developer user base had grown small prior to HTACG involvement in the
+    project. We attribute this to disinterest by the previous maintainers.
+    However since its establishment in 2015-January, we have already seen
+    escalating growth in interest from developers. For example Q3-2014 (before
+    HTACG) there were only seven messages on the W3C mailing list. Since
+    establishing HTACG, Q1-2015 has increased 300%. This is still very low
+    compared to Tidy's peak of 514 in Q1-2000 (and this is simply a developer
+    list). We anticipate growing to previous levels in the next 12 to 18 months
+    following the release of new 5.0.0.
+
+
+*** Please list the names, email addresses, and affiliations (e.g.,
+    employer) of key developers and major contributors.  Include both
+    current and past contributors and developers.  Please include date
+    ranges of when those developers/contributors were active.
+
+    Please make this list as extensive and complete as possible.  You need
+    not include every last person who sent one patch, but please include
+    at least those who regularly sent patches or were/are regular
+    contributors.  If you project has contributors who have been inactive
+    for more than five years, you need only to list such inactive
+    contributors if they made substantial contributions.
+
+    1998 to 2000    - Rave Raggett (dsr@w3.org)
+    2000 to 2009    - Terry Teague (deceased 2005)
+                    - Arnaud Desitter (arnaud_desitter@yahoo.co.uk)
+                    - Bjoern Hoehrmann (derhoermi@gmx.net)
+                    - Charles Reitzel (creitzel@rcn.com)
+    2011 to 2014    - Michael Smith (mike@w3.org)
+    2003 to present - Geoff McLane (ubuntu@geoffair.info)
+
+
+*** Please include any other pertinent information not given above that
+    you feel we should review with your application.
+
+    Although "current management" is new, HTML Tidy is an established product
+    with a history that stretches back to the dialup days. The established
+    installed based of millions is an indication of the importance of Tidy
+    to workflows all over the world. 
+
+    The benefits of joining the Conservancy to HTML Tidy are obvious. We hope
+    that by joining we can offer benefits to the Conservancy and its other
+    member projects, as well.
+
+    Thank you for your consideration.
+
+Please note that your answers will be shared with Conservancy's Board of
+Directors, its Evaluation Committee (the membership of which is
+published on Conservancy's website), and with some of Conservancy's
+existing member projects leaders.  We like to get as much input as
+possible from Conservancy's existing project base when evaluating new
+projects for membership.
+
+Please submit the application in pure ASCII format, with paragraph fills
+and line breaks designed for 80 column viewing.  You don't need to
+impress us with formatting; what will actually impress us is if you make
+the information presented in a simple and clear way that is easily read
+and understood when edited with GNU Emacs and emailed around internally
+at Conservancy via standard email forwarding tools.
+
+Before completing your application, please be sure to read our
+application FAQ at: http://sfconservancy.org/members/apply/
+
+Feel free to include any additional information you'd like us to review
+in considering an application, but please try to be brief as possible.
+
+Please note that Conservancy does require that projects consider donating
+a percentage of their funding to the general operating costs of the
+Conservancy.  This is a way to assure we can continue providing a high
+level of service to all Conservancy projects.  We'll discuss this further
+and in detail after the evaluation process.
+
+Please be advised that you may get follow-up clarification questions on
+your application.  Please be prepared to respond to these inquiries
+quickly to assure timely processing of your application.
+######################################################################
